@@ -6,6 +6,7 @@
 ####################################################################################################
 #                     -Lists-                                                                      #
 ####################################################################################################
+# A list in Python is defined as an ordered sequence of elements that can be dynamically altered.
 # ? Summary
 # ? -1- Creating a lists
 # ? -2- Accessing List Elements
@@ -198,9 +199,9 @@ fruits.sort()
 print("after sort modification \t ", fruits)
 fruits.sort(reverse=True)
 print("after sort reverse modification \t ", fruits)
+
+
 # ---- costomize sorting
-
-
 def myfunc(n):
     return pow(n, 2)
 
@@ -220,8 +221,9 @@ print("le max dans listNumeric is", maxList,
 # Using the Asterisk *
 testList = list((1, 2, 3, 4))
 print(testList)
-(one, *other) = testList
-print(one)
+(one, two, *other) = testList
+print(two)
+print(other)
 print(type(other))
 
 ####################################################################################################

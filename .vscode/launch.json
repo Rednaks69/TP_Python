@@ -9,7 +9,7 @@
             "name": "Python: Current File",
             "type": "python",
             "request": "launch",
-            "program": "C:\\Users\\asus\\Desktop\\Workspace\\workspacePython\\TP4\\Exe2\\Exe2a_TP4.py",
+            "program": "C:\\Users\\asus\\Desktop\\Workspace\\workspacePython\\ComplementTP\\4-Dictionaries.py",
             "console": "internalConsole"
         }
     ]

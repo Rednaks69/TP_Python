@@ -33,7 +33,7 @@ print(len(secondSet))
 
 # * -4- Iterating Through Set Elements
 S = set(range(0, 10, 3))
-print("Value in S are")
+print("Value in S are\t", S)
 for i in S:
     print("even", i) if i % 2 == 0 else print("odd", i)
 
@@ -54,6 +54,7 @@ print(S)
 firstSet.remove("apple")
 firstSet.discard("banana")
 lastValue = firstSet.pop()
+print(lastValue)
 S.clear()
 del S2
 
