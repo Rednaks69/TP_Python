@@ -1,5 +1,6 @@
 {
     "better-comments.highlightPlainText": true,
     "code-runner.showExecutionMessage": false,
-    "code-runner.runInTerminal": true
+    "code-runner.runInTerminal": true,
+    "cmake.configureOnOpen": false
 }

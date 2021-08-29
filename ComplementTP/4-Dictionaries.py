@@ -22,7 +22,6 @@
 d = dict([('car', 'red'), ('taxi', 'yellow')])
 print(d)
 print(type(d))
-
 D = {'apple': "red", 'salaire': 'null', 'mango': 'green', 'grapes': 'green'}
 print(D)
 print(type(D))

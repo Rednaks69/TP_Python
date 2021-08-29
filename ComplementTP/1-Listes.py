@@ -4,8 +4,10 @@
 # * classroom : GLSI-1
 # * year : 2020-2021
 ####################################################################################################
-#                     -Lists-                                                                      #
+#                     -Listes-                                                                     #
 ####################################################################################################
+
+
 # A list in Python is defined as an ordered sequence of elements that can be dynamically altered.
 # ? Summary
 # ? -1- Creating a lists
