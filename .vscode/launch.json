@@ -9,7 +9,7 @@
             "name": "Python: Current File",
             "type": "python",
             "request": "launch",
-            "program": "C:\\Users\\asus\\Desktop\\Workspace\\workspacePython\\ComplementTP\\5-String.py",
+            "program": "C:\\Users\\asus\\Desktop\\Workspace\\workspacePython\\ComplementTP\\9-Exception_Handling.py",
             "console": "internalConsole"
         }
     ]
